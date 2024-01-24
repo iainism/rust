@@ -22,3 +22,6 @@ See initialised variables: `info locals`
 
 # Minicom #
 To monitor serial: `minicom -D /dev/ttyACM0 -b 115200`
+
+# Magnetometer calibration values #
+Calibration { center: Measurement { x: 6274, y: 2944, z: -18790 }, scale: Measurement { x: 1239, y: 1220, z: 1316 }, radius: 45658 }
